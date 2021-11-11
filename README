@@ -1,0 +1,8 @@
+This is a simple goroutine pool.
+
+The s of sgp also means simulation, because the design of this pool is a simulation of how a company/factory work.
+
+which means you can find the shadow of roles of Boss, Worker and a Monitor(a role seems like HR).
+
+This is a very straightforward design base on a very common, stable and robust real life model.
+
